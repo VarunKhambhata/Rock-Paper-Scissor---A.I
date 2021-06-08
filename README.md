@@ -3,4 +3,4 @@ play rock-paper-scissor with CPU
 
 CPU will understand player's patterns of drawing rock, paper or scissor.
 CPU will try not to let player win.
-If CPU cannot win, it will try the best to tie the draw.
+If CPU cannot win, it will try the best to draw the game.
